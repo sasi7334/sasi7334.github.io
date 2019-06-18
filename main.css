@@ -1,0 +1,19 @@
+#brown {
+    color: blueviolet;
+}
+.white {
+    color: blue;
+}
+
+.yellow {
+    font: bold 17px 'Courier New', Courier, monospace
+}
+
+.box1{
+    height: 300px;
+    width: 400px;
+    border: 10px solid brown;
+    margin: 40px;
+    padding: 20px;
+    background-color: aqua;
+}
